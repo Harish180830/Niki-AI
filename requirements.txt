@@ -1,0 +1,16 @@
+streamlit>=1.36
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+requests>=2.31
+langchain-groq>=0.2
+pypdf
+pymupdf
+pytesseract
+pillow
+python-docx
+python-pptx
+openpyxl
+pandas
+scikit-learn
+reportlab

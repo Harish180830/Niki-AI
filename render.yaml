@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: foodtech-api
+    runtime: docker
+    plan: free
+    healthCheckPath: /health
